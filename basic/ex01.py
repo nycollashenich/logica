@@ -1,6 +1,3 @@
-from datetime import time
+# Faça um Programa que mostre a mensagem "Alo mundo" na tela.
 
-date = time.now()
-
-print(date)
-
+print("Alo mundo")
